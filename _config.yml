@@ -1,3 +1,3 @@
-title: "Programming"
-description: "กระบวนการเขียนชุดคำสั่งให้คอมพิวเตอร์ทำงานตามที่กำหนด โดยใช้ภาษาโปรแกรมมิ่งเป็นสื่อกลาง"
-emoji: "💻"
+title: Programming
+description: The process of creating a set of instructions that tell a computer how to perform a task.
+theme: jekyll-theme-cayman
